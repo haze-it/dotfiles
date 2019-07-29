@@ -1,0 +1,12 @@
+[alias]
+  co = commit
+  st = status
+  br = branch
+  ch = checkout
+[user]
+  name = Sho Tokuda
+  email = shoou0000@gmail.com
+[push]
+  default = current
+[branch "master"]
+  merge = refs/head/master
