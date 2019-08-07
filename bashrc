@@ -39,4 +39,4 @@ function PS1_su_set() {
   export PS1="[${PS_USER}${PS_SCREEN}@${PS_HOST}${PS_SSH}${PS_ATODE} ${PS_HIST}${PS_WORK}]\$ "
 }
 
-
+source /Library/Developer/CommandLineTools/usr/share/git-core/git-completion.bash
